@@ -1,6 +1,6 @@
 # CodeQuery API
 
-> Note: For the gateway component of this project, [check this directory](https://github.com/danfmaia/CodeQuery-API/tree/main/gateway).
+> Note: For the gateway component of this project, [check this directory](https://github.com/perfectCoder-dev/CodeQuery-API/tree/main/gateway).
 
 ![CodeQueryGPT cover artwork](./assets/social/social_CodeQueryAPI.png)
 
